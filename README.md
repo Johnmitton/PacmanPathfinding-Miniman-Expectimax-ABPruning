@@ -5,4 +5,4 @@ Edited Files:
 
 • multiAgents.py → Where all of your multi-agent search agents will reside.
 
-For more information see Assignment2.pdf (Part 2).
+See Assignment2.pdf (Part 2) for more details
